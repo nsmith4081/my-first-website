@@ -1,0 +1,18 @@
+body {
+    background-image: url("auburn_logo.jpeg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #ed1c1c;
+    font-family: Impact, charcoal, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+}
+
+p{
+    color: #ed1c1c;
+    font-size: 18px;
+}
